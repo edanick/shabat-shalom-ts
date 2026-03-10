@@ -27,7 +27,7 @@ export class ShabatShalom {
         'Jerusalem': { latitude: 31.7690, longitude: 35.2163, timezone: 'Asia/Jerusalem', country: 'Israel' },
         'Tel Aviv': { latitude: 32.0809, longitude: 34.7806, timezone: 'Asia/Jerusalem', country: 'Israel' },
         'Haifa': { latitude: 32.7940, longitude: 34.9896, timezone: 'Asia/Jerusalem', country: 'Israel' },
-        'Be\'er Sheva': { latitude: 31.2530, longitude: 34.7915, timezone: 'Asia/Jerusalem', country: 'Israel' },
+        'Beer Sheva': { latitude: 31.2530, longitude: 34.7915, timezone: 'Asia/Jerusalem', country: 'Israel' },
         'Rishon LeZion': { latitude: 31.9730, longitude: 34.7925, timezone: 'Asia/Jerusalem', country: 'Israel' },
         'Petah Tikva': { latitude: 32.0870, longitude: 34.8870, timezone: 'Asia/Jerusalem', country: 'Israel' },
         'Ashdod': { latitude: 31.8024, longitude: 34.6550, timezone: 'Asia/Jerusalem', country: 'Israel' },

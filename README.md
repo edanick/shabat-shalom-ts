@@ -189,7 +189,8 @@ console.log(Object.keys(israeliCities));
 ```
 
 **Result**:
-`['Jerusalem', 'Tel Aviv', 'Haifa', 'Be\'er Sheva', 'Rishon LeZion', 'Petah Tikva', 'Ashdod', 'Netanya', 'Bat Yam', 'Bnei Brak']`
+```typescript
+`['Jerusalem', 'Tel Aviv', 'Haifa', 'Beer Sheva', 'Rishon LeZion', 'Petah Tikva', 'Ashdod', 'Netanya', 'Bat Yam', 'Bnei Brak']`
 
 ---
 
